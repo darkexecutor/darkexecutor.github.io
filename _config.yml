@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      rouge
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -18,5 +18,8 @@ author:
   url:            https://twitter.com/darkexecutor
 
 paginate:         3
+
+safe: true
+lsi: false
 
 # Custom vars

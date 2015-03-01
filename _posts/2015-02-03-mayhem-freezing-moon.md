@@ -11,6 +11,10 @@ No podían fallar.
 
 ![Portada del Álbum](/images/thetruemayhem-studiotracks1990.jpg)
 
+**Álbum:** Studio Records  
+**Año:** 1990  
+**Sello:** Independiente  
+
 A solo unos escuetos meses de distancia de Bathory, en Noruega se gestaba una revolución en la música extrema. Para quien algo se entienda, **Mayhem** (o como se autodenominan **The true Mayhem**) es la banda que dio más que hablar en las tierras escandinavas a principios de los 90'.
 
 La banda conformada por un enfermizo Øystein *Euronymous* Aarseth y unos ávidos compañeros, dieron un paso hacia los secretos más mórbidos de la música. Inspirados en el death metal más brutal de la época, más la evolución de Bathory y Hellhammer, trajeron consigo una de las grabaciones que hasta el día de hoy es difícil definir que ocurre.

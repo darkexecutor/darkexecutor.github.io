@@ -11,6 +11,10 @@ Continúa el mes de la historia Black Metal.
 
 ![Portada del Álbum](/images/bathory-underthesignoftheblackmark.jpg)
 
+**Álbum:** Under the Sign of the Black Mark  
+**Año:** 1987  
+**Sello:** Only One Flag  
+
 Antes de 1987, los sonidos del heavy metal estaban optando por caminos cada vez más extremos y duros. Si bien en norteamérica ganaba un gran impulso la escena thrash y hacían osmosis a Europa del death metal.
 
 Muy temprano en la década de los 80', los británicos de **Venom** optan por un camino recrudecido y sin sutilezas del heavy metal estilo británico, entregar el mensaje de **Black Sabbath** pero con más velocidad y menos preocupación en la composición, enfocando más en las ideas, el mensaje y la imagen maligna. Desde Venom, comienza un camino sin retorno a los pasajes más extremos de la historia metalera, los álbumes *Welcome to Hell* y *Black Metal* son un reflejo de este esfuerzo.

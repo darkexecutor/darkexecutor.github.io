@@ -7,9 +7,13 @@ title: "Día 04: Darkthrone &mdash; Kathaarian Life Code"
 
 <!-- more -->
 
-## Día 03/28:
+## Día 04/28:
 
 ![Portada del Álbum](/images/darkthrone-ablazeinthenorthernsky.jpg)
+
+**Álbum:** A Blaze in the Northern Sky  
+**Año:** 1992  
+**Sello:** Peaceville Records  
 
 Es 1992 y un joven triunvirato noruego decide tomar su camino siguiendo los pasos de **Mayhem**. *A Blaze in the Northern Sky* sería el segundo lanzamiento de Ted Skjellum (*Nocturno Culto*), Gylve Nagell (*Fenriz*) e Ivar Enger (*Zephyrous*), quienes el año anterior habían lanzado *Soulside Journey*, una grabación del corte del death metal contemporáneo.
 

@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'Words of The Executor'
+tagline:          'Diseño, ciencia, juegos y heavy metal'
+description:      'El lenguaje del metal desde la perspectiva del diseño y la ingeniería'
+url:              http://darkexecutor.github.io
+baseurl:          /
+
+author:
+  name:           'Simón González Luengo'
+  url:            https://twitter.com/darkexecutor
+
+paginate:         3
+
+# Custom vars

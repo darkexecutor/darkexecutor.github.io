@@ -36,7 +36,7 @@ Fuera y dentro de escena Immortal sostiene un modelo humilde y simple, satisface
 **Canción: A Perfect Vision of the Rising Northland**  
 **Álbum: Diabolical Fullmoon Mysticism**
 
-Es necesario comparar las dos épocas para saber que existen notorias diferencias en la producción sonora, pero no en los medios y en la evocación conceptual, comparar con el segundo bonus track
+Es necesario comparar las dos épocas para saber que existen notorias diferencias en la producción sonora, pero no en los medios y en la evocación conceptual, comparar con el segundo bonus track.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/gWunYFEArwM" frameborder="0" allowfullscreen></iframe>
 
